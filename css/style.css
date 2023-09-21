@@ -226,6 +226,11 @@ body{
     text-align: center;
 }
 
+.contain {
+    background: rgb(170, 187, 97); /* Fallback */
+    background: rgba(170, 187, 97, 0.5);
+}
+
 .about .row .content h3{
     font-size: 3rem;
     color: black;

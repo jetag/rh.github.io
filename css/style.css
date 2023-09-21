@@ -226,6 +226,12 @@ body{
     text-align: center;
 }
 
+
+.box2 {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
+        
 .contain {
     background: rgb(170, 187, 97); /* Fallback */
     background: rgba(170, 187, 97, 0.5);

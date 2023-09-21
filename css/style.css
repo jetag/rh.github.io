@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     transition: all .2s linear;
     text-decoration: none;
 }
@@ -524,7 +524,7 @@ body{
 .testimonials .testimonial-text h4 {
     font-size: 12px;
     font-weight: 300;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .testimonials .testimonial-text p {
@@ -893,7 +893,7 @@ body{
             font-size: 16px;
             font-weight: 700;
             color: #ffffff;
-            text-transform: uppercase;
+            /* text-transform: uppercase; */
             position: relative;
             padding-bottom: 12px;
             margin-bottom: 20px;

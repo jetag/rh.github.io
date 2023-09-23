@@ -228,8 +228,8 @@ body{
 
 
 .box2 {
-    background-color: rgba(0,0,0,.35);
-    color: #fff;
+    /* background-color: rgba(0,0,0,.15); */
+    color: #000000;
     border-radius: 25px;
 }
 
